@@ -1,0 +1,7 @@
+com.example.calmicat.test.app-core-1.7.0-0 C:\Users\itsup\.gradle\caches\8.13\transforms\4504b3aef9d622a144e2a90c609d0fcd\transformed\core-1.7.0\res
+com.example.calmicat.test.app-tracing-1.2.0-1 C:\Users\itsup\.gradle\caches\8.13\transforms\7cd6f980459151f5e862c60ddd5605fe\transformed\tracing-1.2.0\res
+com.example.calmicat.test.app-androidTest-2 C:\Users\itsup\AndroidStudioProjects\CalmiCat3\app\build\generated\res\resValues\androidTest\debug
+com.example.calmicat.test.app-updated_navigation_xml-3 C:\Users\itsup\AndroidStudioProjects\CalmiCat3\app\build\generated\updated_navigation_xml\debugAndroidTest
+com.example.calmicat.test.app-mergeDebugAndroidTestResources-4 C:\Users\itsup\AndroidStudioProjects\CalmiCat3\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.calmicat.test.app-mergeDebugAndroidTestResources-5 C:\Users\itsup\AndroidStudioProjects\CalmiCat3\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.calmicat.test.app-debugAndroidTest-6 C:\Users\itsup\AndroidStudioProjects\CalmiCat3\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

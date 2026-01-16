@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Calmicart" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Custom theme -->
+    </style>
+
+<!--   <style name="Theme.Calmicart" parent="Theme.AppCompat.Light.NoActionBar">-->
+<!--    </style>-->
+</resources>

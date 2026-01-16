@@ -1,0 +1,294 @@
+[
+    {
+        "merged": "com.example.calmicat.app-debug-39:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.calmicat.app-main-41:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/layout_activity_welcome.xml.flat",
+        "source": "com.example.calmicat.app-main-41:/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.calmicat.app-main-41:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/drawable_repeat.png.flat",
+        "source": "com.example.calmicat.app-main-41:/drawable/repeat.png"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/layout_activity_music_player.xml.flat",
+        "source": "com.example.calmicat.app-main-41:/layout/activity_music_player.xml"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/drawable_smal.png.flat",
+        "source": "com.example.calmicat.app-main-41:/drawable/smal.png"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/drawable_img_12.png.flat",
+        "source": "com.example.calmicat.app-main-41:/drawable/img_12.png"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.calmicat.app-main-41:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/drawable_search.png.flat",
+        "source": "com.example.calmicat.app-main-41:/drawable/search.png"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.calmicat.app-main-41:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/drawable_kerangka.png.flat",
+        "source": "com.example.calmicat.app-main-41:/drawable/kerangka.png"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/drawable_btn_rounded.xml.flat",
+        "source": "com.example.calmicat.app-main-41:/drawable/btn_rounded.xml"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/drawable_img_2.png.flat",
+        "source": "com.example.calmicat.app-main-41:/drawable/img_2.png"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/drawable_all.png.flat",
+        "source": "com.example.calmicat.app-main-41:/drawable/all.png"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/layout_activity_login.xml.flat",
+        "source": "com.example.calmicat.app-main-41:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/drawable_putih.png.flat",
+        "source": "com.example.calmicat.app-main-41:/drawable/putih.png"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/drawable_gambarini.png.flat",
+        "source": "com.example.calmicat.app-main-41:/drawable/gambarini.png"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.calmicat.app-main-41:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/xml_backup_rules.xml.flat",
+        "source": "com.example.calmicat.app-main-41:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.calmicat.app-main-41:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.calmicat.app-main-41:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/drawable_sun.png.flat",
+        "source": "com.example.calmicat.app-main-41:/drawable/sun.png"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.calmicat.app-main-41:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/drawable_ic_cat1.png.flat",
+        "source": "com.example.calmicat.app-main-41:/drawable/ic_cat1.png"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/layout_activity_add_plan.xml.flat",
+        "source": "com.example.calmicat.app-main-41:/layout/activity_add_plan.xml"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.calmicat.app-main-41:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/drawable_bg_purple_card.xml.flat",
+        "source": "com.example.calmicat.app-main-41:/drawable/bg_purple_card.xml"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/drawable_img_9.png.flat",
+        "source": "com.example.calmicat.app-main-41:/drawable/img_9.png"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/drawable_selimut.jpeg.flat",
+        "source": "com.example.calmicat.app-main-41:/drawable/selimut.jpeg"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.calmicat.app-main-41:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/drawable_img_3.png.flat",
+        "source": "com.example.calmicat.app-main-41:/drawable/img_3.png"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.calmicat.app-main-41:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/drawable_google.png.flat",
+        "source": "com.example.calmicat.app-main-41:/drawable/google.png"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/drawable_bg_cloud.xml.flat",
+        "source": "com.example.calmicat.app-main-41:/drawable/bg_cloud.xml"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/drawable_apple.png.flat",
+        "source": "com.example.calmicat.app-main-41:/drawable/apple.png"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/drawable_kucinghati.png.flat",
+        "source": "com.example.calmicat.app-main-41:/drawable/kucinghati.png"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/layout_activity_relaxingambienece.xml.flat",
+        "source": "com.example.calmicat.app-main-41:/layout/activity_relaxingambienece.xml"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.calmicat.app-pngs-35:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/drawable_img_10.png.flat",
+        "source": "com.example.calmicat.app-main-41:/drawable/img_10.png"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/drawable_bg_input_white.xml.flat",
+        "source": "com.example.calmicat.app-main-41:/drawable/bg_input_white.xml"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/drawable_img_6.png.flat",
+        "source": "com.example.calmicat.app-main-41:/drawable/img_6.png"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/drawable_dot_active.xml.flat",
+        "source": "com.example.calmicat.app-main-41:/drawable/dot_active.xml"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/drawable_img_8.png.flat",
+        "source": "com.example.calmicat.app-main-41:/drawable/img_8.png"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/drawable_kucingtidur.png.flat",
+        "source": "com.example.calmicat.app-main-41:/drawable/kucingtidur.png"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/layout_activity_add_sound.xml.flat",
+        "source": "com.example.calmicat.app-main-41:/layout/activity_add_sound.xml"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/drawable_ic_cat.png.flat",
+        "source": "com.example.calmicat.app-main-41:/drawable/ic_cat.png"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.calmicat.app-main-41:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/layout_activity_list_reflection.xml.flat",
+        "source": "com.example.calmicat.app-main-41:/layout/activity_list_reflection.xml"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/drawable_img.png.flat",
+        "source": "com.example.calmicat.app-main-41:/drawable/img.png"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/drawable_faceebook.png.flat",
+        "source": "com.example.calmicat.app-main-41:/drawable/faceebook.png"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/drawable_bulan.png.flat",
+        "source": "com.example.calmicat.app-main-41:/drawable/bulan.png"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/drawable_img_4.png.flat",
+        "source": "com.example.calmicat.app-main-41:/drawable/img_4.png"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/layout_activity_splash_screen.xml.flat",
+        "source": "com.example.calmicat.app-main-41:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/layout_activity_main.xml.flat",
+        "source": "com.example.calmicat.app-main-41:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/drawable_ic_note.png.flat",
+        "source": "com.example.calmicat.app-main-41:/drawable/ic_note.png"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/drawable_bel.png.flat",
+        "source": "com.example.calmicat.app-main-41:/drawable/bel.png"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/drawable_cat_splash.png.flat",
+        "source": "com.example.calmicat.app-main-41:/drawable/cat_splash.png"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/layout_activity_profile.xml.flat",
+        "source": "com.example.calmicat.app-main-41:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.calmicat.app-main-41:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/drawable_gambar.png.flat",
+        "source": "com.example.calmicat.app-main-41:/drawable/gambar.png"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/drawable_tanda.png.flat",
+        "source": "com.example.calmicat.app-main-41:/drawable/tanda.png"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/drawable_img_7.png.flat",
+        "source": "com.example.calmicat.app-main-41:/drawable/img_7.png"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/drawable_bg_edittext.xml.flat",
+        "source": "com.example.calmicat.app-main-41:/drawable/bg_edittext.xml"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/drawable_img_5.png.flat",
+        "source": "com.example.calmicat.app-main-41:/drawable/img_5.png"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/drawable_img_11.png.flat",
+        "source": "com.example.calmicat.app-main-41:/drawable/img_11.png"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/drawable_ic_plus.png.flat",
+        "source": "com.example.calmicat.app-main-41:/drawable/ic_plus.png"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/layout_activity_list_plan.xml.flat",
+        "source": "com.example.calmicat.app-main-41:/layout/activity_list_plan.xml"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/layout_activity_register.xml.flat",
+        "source": "com.example.calmicat.app-main-41:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.calmicat.app-main-41:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/drawable_awan.png.flat",
+        "source": "com.example.calmicat.app-main-41:/drawable/awan.png"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/drawable_bg_wave.xml.flat",
+        "source": "com.example.calmicat.app-main-41:/drawable/bg_wave.xml"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/layout_activity_reflection.xml.flat",
+        "source": "com.example.calmicat.app-main-41:/layout/activity_reflection.xml"
+    },
+    {
+        "merged": "com.example.calmicat.app-debug-39:/drawable_img_1.png.flat",
+        "source": "com.example.calmicat.app-main-41:/drawable/img_1.png"
+    }
+]
